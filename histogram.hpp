@@ -1,0 +1,4 @@
+class SphericalHistogram3D
+{
+
+};
